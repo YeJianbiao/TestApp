@@ -10,6 +10,7 @@ namespace ConsoleApp.Common
         public Class3()
         {
 
+
         }
 
     }
